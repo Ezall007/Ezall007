@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ezall007
 - 👀 I’m interested in whatever this GitHub thing  is
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java, C++, and blender.
 - 💞️ I’m looking to collaborate on console modding like homebrew
 - 📫 How to reach me, try I dunno
 - 😄 Pronouns: He/Him
